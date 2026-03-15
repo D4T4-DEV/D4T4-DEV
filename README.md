@@ -14,19 +14,19 @@ My work focuses on designing systems that balance **performance, maintainability
 
 ### Main areas I work with
 
-* 📱 Mobile application development  
-* 🌐 Modern web platforms  
-* 🧠 Software architecture and system design  
-* ⚙️ Scalable backend services  
-* 🔬 Experimenting with new technologies and tools  
+- 📱 Mobile application development
+- 🌐 Modern web platforms
+- 🧠 Software architecture and system design
+- ⚙️ Scalable backend services
+- 🔬 Experimenting with new technologies and tools
 
 ### Technical Focus
 
-* **Frontend:** React, Next.js, React Native, Expo  
-* **State Management:** Redux Toolkit  
-* **Backend & Services:** Firebase, REST APIs, Node.js  
-* **Architecture:** Clean Architecture, MVVM, Feature-First  
-* **Other interests:** symbolic computation, BLE integrations, and performance optimization  
+- **Frontend:** React, Next.js, React Native, Expo
+- **State Management:** Redux Toolkit
+- **Backend & Services:** Firebase, REST APIs, Node.js
+- **Architecture:** Clean Architecture, MVVM, Feature-First
+- **Other interests:** symbolic computation, BLE integrations, and performance optimization
 
 I strongly believe that **good software is not just about making things work — it's about building systems that remain understandable and maintainable over time.**
 
@@ -40,19 +40,19 @@ Me gusta diseñar aplicaciones que sean **fáciles de mantener, extender y evolu
 
 ### Áreas principales de interés
 
-* 📱 Desarrollo de aplicaciones móviles  
-* 🌐 Desarrollo de aplicaciones web modernas  
-* 🧠 Arquitectura de software y diseño de sistemas  
-* ⚙️ Desarrollo de servicios backend escalables  
-* 🔬 Exploración de nuevas tecnologías y herramientas  
+- 📱 Desarrollo de aplicaciones móviles
+- 🌐 Desarrollo de aplicaciones web modernas
+- 🧠 Arquitectura de software y diseño de sistemas
+- ⚙️ Desarrollo de servicios backend escalables
+- 🔬 Exploración de nuevas tecnologías y herramientas
 
 ### Enfoque técnico
 
-* **Frontend:** React, Next.js, React Native, Expo  
-* **Gestión de estado:** Redux Toolkit  
-* **Backend & Servicios:** Firebase, APIs REST, Node.js  
-* **Arquitectura:** Clean Architecture, MVVM, Feature-First  
-* **Otros intereses:** computación simbólica, integración BLE y optimización de rendimiento  
+- **Frontend:** React, Next.js, React Native, Expo
+- **Gestión de estado:** Redux Toolkit
+- **Backend & Servicios:** Firebase, APIs REST, Node.js
+- **Arquitectura:** Clean Architecture, MVVM, Feature-First
+- **Otros intereses:** computación simbólica, integración BLE y optimización de rendimiento
 
 Creo firmemente que **el buen software no solo consiste en que funcione, sino en que sea comprensible, mantenible y escalable a largo plazo.**
 
@@ -61,25 +61,29 @@ Creo firmemente que **el buen software no solo consiste en que funcione, sino en
 # 🛠️ Tech Stack
 
 ### Languages
-* TypeScript
+
+- TypeScript
 
 ### Frontend
-* React  
-* Next.js  
-* React Native  
-* TailwindCSS  
-* shadcn
+
+- React
+- Next.js
+- React Native
+- TailwindCSS
+- shadcn
 
 ### Backend & Services
-* Firebase  
-* REST APIs  
-* Node.js  
+
+- Firebase
+- REST APIs
+- Node.js
 
 ### Architecture & Engineering
-* Clean Architecture  
-* MVVM  
-* SOLID Principles  
-* Feature-First Design  
+
+- Clean Architecture
+- MVVM
+- SOLID Principles
+- Feature-First Design
 
 ---
 
@@ -87,11 +91,31 @@ Creo firmemente que **el buen software no solo consiste en que funcione, sino en
 
 ### 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=D4T4-DEV)](https://git.io/streak-stats)
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=D4T4-DEV&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=D4T4-DEV&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://streak-stats.demolab.com?user=D4T4-DEV&theme=default" />
+</picture>
 
 ### 📈 GitHub Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4T4-DEV&layout=compact&hide=Pug,Sass)](https://github.com/SrGobi/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=D4T4-DEV&layout=compact&theme=github_dark&hide=Pug,Sass"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=D4T4-DEV&layout=compact&theme=default&hide=Pug,Sass"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4T4-DEV&layout=compact&hide=Pug,Sass" />
+</picture>
 
 ---
 
@@ -99,10 +123,10 @@ Creo firmemente que **el buen software no solo consiste en que funcione, sino en
 
 Some of the projects I enjoy building:
 
-* 📱 **Mobile applications with React Native + Expo**  
-* 🧮 **Symbolic algebra solvers with step-by-step explanations**  
-* 🌐 **Modern web applications with Next.js**  
-* ⚙️ **Applications designed using Clean Architecture**
+- 📱 **Mobile applications with React Native + Expo**
+- 🧮 **Symbolic algebra solvers with step-by-step explanations**
+- 🌐 **Modern web applications with Next.js**
+- ⚙️ **Applications designed using Clean Architecture**
 
 ---
 
@@ -110,9 +134,9 @@ Some of the projects I enjoy building:
 
 If you're interested in:
 
-* collaborating on projects  
-* discussing software architecture  
-* building interesting tools or products  
+- collaborating on projects
+- discussing software architecture
+- building interesting tools or products
 
 feel free to reach out.
 
